@@ -1,0 +1,1 @@
+Pictures uploaded via adminpanel will appear in this folder
